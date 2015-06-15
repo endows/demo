@@ -1,4 +1,5 @@
 Users = Meteor.users
+Users._isGeneration = 'STRING'
 Users.allow({
   update: function() {
     return true

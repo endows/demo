@@ -1,0 +1,7 @@
+db.users.insert({visiting_channel_id:'v53t4xMY24GgTg9Nt', _id:1,name:'C太郎＠モンスト',image:'https://pbs.twimg.com/profile_images/450897326286991361/33TwsvLH_bigger.png'})
+db.users.insert({visiting_channel_id:'v53t4xMY24GgTg9Nt',_id:2,name:'うー',image:'https://pbs.twimg.com/profile_images/583473589266939904/VRgFvZq5_bigger.jpg'})
+db.users.insert({visiting_channel_id:'v53t4xMY24GgTg9Nt',_id:3,name:'まめすけ',image:'https://pbs.twimg.com/profile_images/450837952361271296/9Gm8Wp2G_bigger.png'})
+db.users.insert({visiting_channel_id:'v53t4xMY24GgTg9Nt',_id:4,name:'Rucy',image:'https://pbs.twimg.com/profile_images/605029068568862720/uT0zTRIq_bigger.jpg'})
+db.users.insert({visiting_channel_id:'v53t4xMY24GgTg9Nt',_id:5,name:'offちゃん',image:'https://pbs.twimg.com/profile_images/1649808462/2011_______500_bigger.jpg'})
+
+db.posts.insert({body:"やばいな・・これ",user:1,channel:'v53t4xMY24GgTg9Nt'})
